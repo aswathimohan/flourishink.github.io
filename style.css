@@ -1,0 +1,161 @@
+<style>
+	* {
+			font-family: 'Georgia', 'Times', serif;
+			
+	   }
+	   body {
+	   		background-color: rgb(244, 194, 66);
+
+	   }
+	   a {
+	   		text-decoration: none;
+	   }
+	   .link1 {
+	   		color: Black;
+	   }
+	   .link2 {
+	   	color: White;
+	   }
+	.content-box {
+	 		position: relative;
+		    left: 630px;
+		    bottom: 550px;
+		    background-color: Red;
+		    width: 300px;
+		   	text-align: center;
+		    border-radius: 20px;
+		    box-shadow: 3px 5px ;
+
+		}
+	
+	.header-box {
+			position: relative;
+		    background-color: white;
+		    left: 200px;
+		    width: 950px;
+		    height: 400px;
+		   	text-align: left;
+		    
+	}
+	.content-long{
+			position: relative;
+		    left: 200px;
+		    background-color: black;
+		    width: 950px;
+		    height: 10px;
+		   	text-align: center;
+		   
+		}
+	.title {
+			position: relative;
+		    left: 20px;
+		    bottom: -10px;
+
+		}
+
+	.handy {
+			position: relative;
+		    left: 300px;
+		    bottom: 171px;
+		}
+
+	.format {
+			color: rgb(244, 66, 101);
+			font-size: 50px;
+			margin-left: 30px;
+			
+			
+		}
+
+	ul {
+	    list-style-type: none;
+	    margin: 0;
+	    padding: 0;
+	    overflow: hidden;
+	    background-color: #333;
+		}
+
+	li {
+	    float: left;
+		}
+
+	li a {
+		font-size: 125%;
+	    display: block;
+	    color: white;
+	    text-align: center;
+	    padding: 14px 60px;
+	    text-decoration: none;
+		}
+
+	li a:hover:not(.active) {
+	    background-color: #111;
+		}
+
+	.active {
+	    background-color: #f44b42;
+		}
+
+	.box1{
+		position: relative;
+	    bottom: -30px;
+	    left: 200px;
+	    width: 950px;
+	    height: 200px;
+	   	text-align: left;
+		    
+		}
+
+	.box2 {
+		position: relative;
+	    bottom: -30px;
+	    left: 200px;
+	   	width: 1000px;
+	    height: 300px;
+	   	text-align: center;
+		    
+		}
+	.service-box {
+		position: relative;
+	    bottom: -70px;
+	    left: 225px;
+	    width: 900px;
+	    height: 150px;
+	   	text-align: left;
+		}
+	.service {
+		position: relative;
+	    background-color: Black;
+	    width: 200px;
+	    height: 40px;
+	   	text-align: center;
+	    color: White;
+	    font-size: 125%;
+
+	}
+	
+	.service2{
+		bottom: 30px;
+		
+	}
+	.service3{
+		
+	    bottom: 20px;
+	    
+		
+	}
+	
+	.foot {
+		position: relative;
+	    bottom: -200px;
+	    left: 200px;
+	    width: 950px;
+	    height: 150px;
+	   	text-align: center;
+		background-color: Black;  
+		color: White; 
+		float: left;
+		margin-top: -150px;
+		margin-bottom: 50px;
+	}
+</style>
